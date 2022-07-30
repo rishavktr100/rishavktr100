@@ -24,10 +24,16 @@
 
 <p align="center"><img src="https://github.com/kant146/kant146/raw/main/68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966.gif" ></p>
 
-</img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img src="https://img.icons8.com/color/48/000000/git.png"/><img align="bottom" height="40"  src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>&nbsp;&nbsp;
-
-<img height="30" src="https://swimburger.net/media/ppnn3pcl/azure.png">
-&nbsp;&nbsp;<img height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/>
+</img><img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.icons8.com/color/48/000000/git.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img align="bottom" height="40"  src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="30" src="https://swimburger.net/media/ppnn3pcl/azure.png"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  
+<img height="30" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"/>
 <br>
 
 ## Visitors Count
