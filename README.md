@@ -17,6 +17,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:rishavktr100@gmail.com)](mailto:rishavktr100@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/-facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/rishav.gupta.509)](https://www.facebook.com/rishav.gupta.509)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rishav-kumar71)](https://www.linkedin.com/in/rishav-kumar71)
+[![Leetcode Badge](https://img.shields.io/badge/-leetcode-blue?style=for-the-badge&logo=leetcode&logoColor=white&link=https://www.leetcode.com/rishavktr100)](https://leetcode.com/rishavktr100/)
 
 <!-- [![Website](https://img.shields.io/website?label=Code_Bank&style=for-the-badge&url=https%3A%2F%2Fkant146.wordpress.com)](http://codebank.co.in) -->
 
